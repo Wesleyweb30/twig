@@ -1,0 +1,19 @@
+{
+    "name": "wesle/template",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesley",
+            "email": "wesleyweb3.0@gmail.com"
+        }
+    ],
+    "require": { 
+        "php" : ">=8.0",
+        "twig/twig": "^3.0"
+    }
+}
